@@ -1,4 +1,4 @@
-# ubuntu-deploy-ngnx
+<!-- # ubuntu-deploy-ngnx
 
 #GCP deployment
 1: sudo apt-get update
@@ -37,3 +37,4 @@ location / {
   23: sudo systemctl restart nginx
   
   now copy your instance IP and hit URl
+ -->
